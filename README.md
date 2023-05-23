@@ -1,1 +1,11 @@
-# TFM_A_Comparison_of_Hyper-parameter_Optimization_Methods_for_Classification_Problems
+# A Comparison of Hyper-parameter Optimization Methods for Classification Problems
+
+Final Master Thesis for master in Statistics for Data Science
+
+Supervisor: Ricardo Aler Mur
+
+The repository contains:
+
+Codes for all datasets: Electricity, Gas Drift and Nomao
+
+Thesis in PDF
